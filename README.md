@@ -15,4 +15,4 @@ Plataforma de pedidos e pagamentos em **Java 21 + Spring Boot 4**, em migração
 **🧰 Stack**
 `React` `TypeScript` `Next.js` `Redux` `Java` `Spring Boot` `Spring Cloud Gateway` `MySQL` `MongoDB` `Redis` `RabbitMQ` `Docker` `JUnit` `Testcontainers`
 
-📫 [LinkedIn](https://linkedin.com/in/matheus-oliveira-souza-1060391b) · matheussouza.developer@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/matheus-oliveira-souza-1060391b1/) · matheussouza.developer@gmail.com
